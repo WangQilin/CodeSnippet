@@ -1,4 +1,4 @@
-package JavaHashMapHashTable;
+package JavaHashMap;
 
 import java.util.HashMap;
 import java.util.Iterator;
